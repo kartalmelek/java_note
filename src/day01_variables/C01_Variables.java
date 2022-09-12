@@ -4,5 +4,9 @@ public class C01_Variables {
 
     public static void main(String[] args) {
         System.out.println("Hello Wold");
+        System.out.println("melek kartal");
+
     }
+
+
 }
